@@ -1,0 +1,6 @@
+{
+  "version": "1.0.1",
+  "installerUrl": "https://github.com/tschnepf/SMC-Tools-Installer/releases/download/v1.0.1/SMC_Tools_Installer.exe",
+  "releaseNotes": "Public GitHub installer release.",
+  "minRevitVersion": "2024"
+}
