@@ -1,6 +1,6 @@
 {
-  "version": "1.0.5",
-  "installerUrl": "https://github.com/tschnepf/SMC-Tools-Installer/releases/download/v1.0.5/SMC_Tools_Installer.exe",
+  "version": "1.0.6",
+  "installerUrl": "https://github.com/tschnepf/SMC-Tools-Installer/releases/download/v1.0.6/SMC_Tools_Installer.exe",
   "releaseNotes": "Adds an About button with a manual update check and cleans up legacy ProgramData installs where permissions allow.",
   "minRevitVersion": "2024"
 }
