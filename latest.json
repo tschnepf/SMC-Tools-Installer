@@ -1,6 +1,7 @@
-{
-  "version": "1.0.6",
-  "installerUrl": "https://github.com/tschnepf/SMC-Tools-Installer/releases/download/v1.0.6/SMC_Tools_Installer.exe",
-  "releaseNotes": "Adds an About button with a manual update check and cleans up legacy ProgramData installs where permissions allow.",
-  "minRevitVersion": "2024"
+﻿{
+    "version":  "1.0.7",
+    "installerUrl":  "https://github.com/tschnepf/SMC-Tools-Installer/releases/download/v1.0.7/SMC_Tools_Installer.exe",
+    "installerSha256":  "91C38E8D8AF1F7BBAFE9ABCAEE4206F07772BBAC8456BEA3720F89B4BD6AB94E",
+    "releaseNotes":  "Adds QA Review and Model Spell Check, improves Keynote Manager workflows, and refreshes tool interfaces across the SMC suite.",
+    "minRevitVersion":  "2024"
 }
