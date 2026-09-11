@@ -1,7 +1,7 @@
 ﻿{
     "version":  "2.1.0",
     "installerUrl":  "https://github.com/tschnepf/SMC-Tools-Installer/releases/download/v2.1.0/SMC_Tools_Installer.exe",
-    "installerSha256":  "61352C435FE491A43DB994C5F76EB7063B928EB2F5E69D80EAFDF78586718B8D",
+    "installerSha256":  "929B71A15D12AD5794236AFABDE62110281444BD6473A32F373620CCC4F741EA",
     "releaseNotes":  "Adds Circuit Wire Sizer Excel/CSV exports and Revit voltage-drop schedules using actual current wire sizes, persistent bulk neutral overrides, filter-driven schedule inclusion, worksharing checkout prompts, and clearer report formatting. Includes .NET 8 support for Revit 2025 and 2026.",
     "minRevitVersion":  "2025",
     "maxRevitVersion":  "2026"
